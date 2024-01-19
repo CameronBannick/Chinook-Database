@@ -5,3 +5,7 @@
 ## The data
    The data consists of various tables with data on customer, country, invoice, and song/artist information that were queried using a Structured Query Language (SQL) to answer various questions.
 ## Questions 
+### What countries use the service?
+
+![image](https://github.com/CameronBannick/Chinook-Database/blob/main/country.png)
+
