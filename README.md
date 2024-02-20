@@ -1,7 +1,6 @@
 # Chinook Sales Report
 ## Introduction 
-   As the Chinook music serivce has entered the international market, data was gathered and entered into a database to be analyzed. The goal is to gather which countries are bringing in the most money in order to gain insights
-   to inform our decision as to where to allocate out resources.
+  As the Chinook music service has entered the international market, data was gathered and entered a database to be analyzed. The goal is to gather which countries are bringing in the most money to gain insights to inform our decision as to where to allocate our resources.
 ## The data
    The data consists of various tables with data on customer, country, invoice, and song/artist information that were queried using a Structured Query Language (SQL) to answer various questions.
 ## Questions 
@@ -41,7 +40,7 @@ The highest total invoice amount goes to The United States, follower by Canada, 
 
 ![image](https://github.com/CameronBannick/Chinook-Database/blob/main/media_download.png)
 
-The majority of the audio purchased is music followed by TV shows.
+Most of the audio purchased is music followed by TV shows.
 
 ### What are the most downloaded genres?
 
