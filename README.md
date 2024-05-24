@@ -34,7 +34,7 @@ On average, a customer will spend 5.60 on an invoice and most sales are between 
 
 ![image](https://github.com/CameronBannick/Chinook-Database/blob/main/total_country.png)
 
-The highest total invoice amount goes to The United States, follower by Canada, and France and Brazil about tied for thirds.
+The highest total invoice amount goes to The United States, followed by Canada, and France and Brazil about tied for thirds.
 
 ### What type of audio do customers purchase most?
 
